@@ -1,0 +1,6 @@
+{
+  "name": "Otobo Helpdesk",
+  "description": "An advanced mobile helpdesk client for Otobo ticket management with offline support, live reply, and attachment viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
